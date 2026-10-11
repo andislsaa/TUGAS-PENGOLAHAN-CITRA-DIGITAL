@@ -1,0 +1,10 @@
+Gambar,Original,Mean Filter,Median Filter,Gaussian Filter,Sharpening
+01_HighQuality_Enhanced,100.00%,100.00%,100.00%,100.00%,100.00%
+02_LowContrast,100.00%,100.00%,100.00%,100.00%,100.00%
+03_Blurred,100.00%,100.00%,100.00%,100.00%,100.00%
+04_HighNoise,100.00%,100.00%,26.67%,100.00%,0.00%
+05_LowResolution_Upsampled,100.00%,26.67%,100.00%,100.00%,100.00%
+06_Faded_Underexposed,100.00%,100.00%,100.00%,100.00%,100.00%
+07_ColorShift_WarmTint,100.00%,100.00%,100.00%,100.00%,100.00%
+08_JPEGCompression_Artifacts,100.00%,100.00%,100.00%,100.00%,100.00%
+09_CombinedDegradation,100.00%,100.00%,26.67%,100.00%,100.00%

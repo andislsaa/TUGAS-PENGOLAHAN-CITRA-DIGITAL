@@ -1,0 +1,46 @@
+Gambar,Metode,Hasil OCR,Akurasi (%)
+01_HighQuality_Enhanced,Original,571012022000056,100.00
+01_HighQuality_Enhanced,Mean Filter,571012022000056,100.00
+01_HighQuality_Enhanced,Median Filter,571012022000056,100.00
+01_HighQuality_Enhanced,Gaussian Filter,571012022000056,100.00
+01_HighQuality_Enhanced,Sharpening,571012022000056,100.00
+02_LowContrast,Original,571012022000056,100.00
+02_LowContrast,Mean Filter,571012022000056,100.00
+02_LowContrast,Median Filter,571012022000056,100.00
+02_LowContrast,Gaussian Filter,571012022000056,100.00
+02_LowContrast,Sharpening,571012022000056,100.00
+03_Blurred,Original,571012022000056,100.00
+03_Blurred,Mean Filter,571012022000056,100.00
+03_Blurred,Median Filter,571012022000056,100.00
+03_Blurred,Gaussian Filter,571012022000056,100.00
+03_Blurred,Sharpening,571012022000056,100.00
+04_HighNoise,Original,571012022000056,100.00
+04_HighNoise,Mean Filter,571012022000056,100.00
+04_HighNoise,Median Filter,1571012022000056,26.67
+04_HighNoise,Gaussian Filter,571012022000056,100.00
+04_HighNoise,Sharpening,,0.00
+05_LowResolution_Upsampled,Original,571012022000056,100.00
+05_LowResolution_Upsampled,Mean Filter,1571012022000056,26.67
+05_LowResolution_Upsampled,Median Filter,571012022000056,100.00
+05_LowResolution_Upsampled,Gaussian Filter,571012022000056,100.00
+05_LowResolution_Upsampled,Sharpening,571012022000056,100.00
+06_Faded_Underexposed,Original,571012022000056,100.00
+06_Faded_Underexposed,Mean Filter,571012022000056,100.00
+06_Faded_Underexposed,Median Filter,571012022000056,100.00
+06_Faded_Underexposed,Gaussian Filter,571012022000056,100.00
+06_Faded_Underexposed,Sharpening,571012022000056,100.00
+07_ColorShift_WarmTint,Original,571012022000056,100.00
+07_ColorShift_WarmTint,Mean Filter,571012022000056,100.00
+07_ColorShift_WarmTint,Median Filter,571012022000056,100.00
+07_ColorShift_WarmTint,Gaussian Filter,571012022000056,100.00
+07_ColorShift_WarmTint,Sharpening,571012022000056,100.00
+08_JPEGCompression_Artifacts,Original,571012022000056,100.00
+08_JPEGCompression_Artifacts,Mean Filter,571012022000056,100.00
+08_JPEGCompression_Artifacts,Median Filter,571012022000056,100.00
+08_JPEGCompression_Artifacts,Gaussian Filter,571012022000056,100.00
+08_JPEGCompression_Artifacts,Sharpening,571012022000056,100.00
+09_CombinedDegradation,Original,571012022000056,100.00
+09_CombinedDegradation,Mean Filter,571012022000056,100.00
+09_CombinedDegradation,Median Filter,4571012022000056,26.67
+09_CombinedDegradation,Gaussian Filter,571012022000056,100.00
+09_CombinedDegradation,Sharpening,571012022000056,100.00
