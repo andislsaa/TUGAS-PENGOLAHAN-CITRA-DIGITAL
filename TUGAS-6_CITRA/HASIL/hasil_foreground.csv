@@ -1,0 +1,10 @@
+No,Gambar,Total Piksel,Foreground,Persentase Foreground
+1,01_crop_01_HighQuality_Enhanced_gray_otsu_opening_closing.png,281052,23986,8.53
+2,02_crop_02_LowContrast_gray_otsu_opening_closing.png,281052,24032,8.55
+3,03_crop_03_Blurred_gray_otsu_opening_closing.png,281052,32923,11.71
+4,04_crop_04_HighNoise_gray_otsu_opening_closing.png,281052,23648,8.41
+5,05_crop_05_LowResolution_Upsampled_gray_otsu_opening_closing.png,281052,25966,9.24
+6,06_crop_06_Faded_Underexposed_gray_otsu_opening_closing.png,281052,24169,8.6
+7,07_crop_07_ColorShift_WarmTint_gray_otsu_opening_closing.png,281052,24038,8.55
+8,08_crop_08_JPEGCompression_Artifacts_gray_otsu_opening_closing.png,281052,23956,8.52
+9,09_crop_09_CombinedDegradation_gray_otsu_opening_closing.png,281052,25306,9.0

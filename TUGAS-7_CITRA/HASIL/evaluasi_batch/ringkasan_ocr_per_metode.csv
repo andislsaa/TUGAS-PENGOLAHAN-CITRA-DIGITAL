@@ -1,0 +1,6 @@
+﻿metode,jumlah_gambar,jumlah_ocr_cocok_persis,akurasi_pencocokan_persis_persen,rata_rata_CER_persen,rata_rata_akurasi_karakter_persen
+Original,9,9,100.0,0.0,100.0
+Mean,9,9,100.0,0.0,100.0
+Median,9,9,100.0,0.0,100.0
+Gaussian,9,9,100.0,0.0,100.0
+Sharpening,9,8,88.89,0.74,99.26
